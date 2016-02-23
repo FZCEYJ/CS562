@@ -1,2 +1,3 @@
 # CS562
 What is log? How to use it.<br />
+explain the part3 homework
